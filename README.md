@@ -4,7 +4,7 @@ yeah so i got the outstanding learner award for cs 9618 and people keep asking m
 
 ## what's in here
 
-theres an imp algorithms file which if you can memorize will take you through 70% of the p4 easily
+theres an imp algorithms file which if you can memorize will take you through 70% of the p4 easily (some algorithms might be broken)
 also my worked solutions for p4 going back a few years. i wrote these during the practice exams so they're not perfect but they got me the marks so yea
 
 ---
@@ -22,7 +22,6 @@ please actually attempt the paper before looking at my solutions. i'm serious. y
 1. do the paper
 2. check yours against mine
 3. if mine is different figure out why
-4. that's literally it
 
 ---
 
@@ -34,7 +33,7 @@ these are my solutions not cambridge's official ones so if something's wrong don
 
 ## about me i guess
 
-got the cambridge outstanding learner award for best across 3 AS and A levels which basically means i did well on it. made this repo because i was bored and kept copy pasting solutions to people individually which got old fast
+got the cambridge outstanding learner award for best across 3 AS and A levels which basically means i did well on it. made this repo because i was bored 
 
 ---
 
